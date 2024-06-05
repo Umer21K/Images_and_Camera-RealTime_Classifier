@@ -1,4 +1,5 @@
 # Images_and_Camera-RealTime_Classifier : An AI-powered Solution for Object Identification
+This is my project for Artificial Intelligence Course
 
 ## Introduction(Aim):
 -The goal of the Image and Camera Classifier Application is to provide a tool that is easy to use
